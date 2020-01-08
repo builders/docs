@@ -1,3 +1,5 @@
-# Welcome to GitDocs
+# Builders Collective
 
-This is a basic documentation site to get you started using GitDocs! We hope you enjoy it.
+This is a basic documentation site to get started with a little project to build a community.
+
+The documentation is powered by [GitDocs](https://gitdocs.netlify.com/).
