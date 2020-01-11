@@ -1,3 +1,7 @@
+---
+description: We are building leaders to design a resilient society.
+---
+
 # About Us
 
 # Builders Collective
