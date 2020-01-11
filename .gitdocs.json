@@ -1,4 +1,11 @@
 {
   "name": "Builders Collective",
-  "root": "docs/"
+  "root": "docs/",
+  "header_links": [
+    {
+      "title": "GitHub",
+      "href": "https://github.com/builders/docs",
+      "target": "_blank"
+    }
+  ]
 }
