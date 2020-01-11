@@ -1,8 +1,8 @@
-# Builders Collective
+# A Design Brief
+
+## Builders Collective
 
 *Exploring how we can imagine, design, and build the future together.*
-
-# A Design Brief
 
 ## Scope and Focus
 
