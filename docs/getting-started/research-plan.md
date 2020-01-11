@@ -1,6 +1,4 @@
-## UX Research Plan
-
-# Builders Collective
+# UX Research Plan
 
 Last updated on:  
 November 14, 2019
