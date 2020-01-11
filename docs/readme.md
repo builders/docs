@@ -1,5 +1,3 @@
 # Builders Collective
 
-This is a basic documentation site to get started with a little project to build a community.
-
-The documentation is powered by [GitDocs](https://gitdocs.netlify.com/).
+Exploring how we can imagine, design, and build the future together. We are documenting the work of a collaborative creative community with a focus on reimagining, redesigning, and rebuilding our social architecture.
