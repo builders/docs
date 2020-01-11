@@ -54,3 +54,9 @@ We are all in this together. (Forget demographics. It is inherently classist, ra
 - Collaborative Analysis
 - Surveys
 - 1:1 Interviews
+
+---
+
+<div align="right">
+  <h3><a href="/getting-started/survey/">Survey →</a></h3>
+</div>
