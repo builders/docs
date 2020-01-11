@@ -1,7 +1,6 @@
-# Building Resilience
+# A Survey
 
-## A Survey
-
+## Building Resilience
 
 Exploring how we imagine, design, and build the future together. How can we build personal resilience, resilient communities, and a resilient society?
 
