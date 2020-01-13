@@ -1,4 +1,5 @@
 ---
+title: To Build
 description: A community design project to reimagine our social architecture.
 ---
 

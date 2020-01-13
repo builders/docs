@@ -1,7 +1,7 @@
 ---
 items:
-  - a-vision
-  - to-build
+  - vision
+  - process
   - community
   - component: Divider
   - imagine
