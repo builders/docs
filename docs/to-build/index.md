@@ -2,7 +2,7 @@
 description: A community design project to reimagine our social architecture.
 ---
 
-# To Build
+# Social Architecture
 
 ## We Are All Designers
 
