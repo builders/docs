@@ -6,6 +6,14 @@ items:
   - imagine
   - design
   - build
+  - component: Divider
+  - events.md
+  - workshops.md
+  - projects.md
+  - component: Divider
+  - about.md
+  - connect.md
+  - join.md
 ---
 
 # Builders Collective
