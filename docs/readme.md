@@ -1,7 +1,8 @@
 ---
 items:
-  - about-us
-  - getting-started
+  - a-vision
+  - to-build
+  - community
   - component: Divider
   - imagine
   - design

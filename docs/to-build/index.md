@@ -2,7 +2,7 @@
 description: A community design project to reimagine our social architecture.
 ---
 
-# Design for Resilience
+# To Build
 
 ## We Are All Designers
 
