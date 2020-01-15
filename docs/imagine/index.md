@@ -1,7 +1,7 @@
 ---
 description: Creativity and innovation at the intersection of art and science.
 items:
-  - resources.md
+  - resources
   - theory.md
   - research.md
   - strategy.md
