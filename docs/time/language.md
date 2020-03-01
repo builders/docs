@@ -1,0 +1,5 @@
+# Language
+
+## Vocabulary, Grammar, and Syntax
+
+Language is a technology that helps us to communicate with each other, but it also forms our identity by constraining our ideas to the social, economic, and political environment in which our relationships were formed in the context of families, schools, institutions, and communities.
