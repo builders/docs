@@ -24,6 +24,7 @@ We need to think like architects about the social, economic, and political impli
 
 This is metaphysical design. These are the intangibles that we cannot reduce to measurements. We must decide what we value, and there is no physical, empirical methods for discovering these things, unless we reduce people to numbers, which is what capitalism does to humans. Humans are merely numbers on a balance sheet.
 
+---
 
 # Builders Collective
 
