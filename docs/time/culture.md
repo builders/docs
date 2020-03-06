@@ -4,7 +4,7 @@
 
 We create culture together by solidifying our perceptions, ideas, and behaviours into the infrastructure and architecture that reinforce the rules, traditions, and rituals of a social group as habits that are very difficult to change. These pathways of the mind become rivers of actions that empty into large reservoirs of collective social, economic, and political forces that are a deep and systemic ocean of group dynamics.
 
-Because nation states are legitimized by the monopoly of force over a particular region with arbitrarily set boundaries, the hoarding or resources and territory necessarily lead to behaviours that are aggressive, violent, and oppressive to those who are marginalized by its own internal logic of rules and laws to maintain the social order. Violence is justified to maintain the status quo for those who wield power.
+Because nation states are legitimized by the monopoly of force over a particular region with arbitrarily set boundaries, the hoarding of resources and territory necessarily lead to behaviours that are aggressive, violent, and oppressive to those who are marginalized by their own internal logic of rules and laws to maintain the social order. Violence is justified to maintain the status quo for those who wield power.
 
 ## Architecture as Ideology Made Manifest
 
