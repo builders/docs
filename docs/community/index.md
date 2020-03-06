@@ -29,7 +29,7 @@ A podcast called The One You Feed released an episode featuring an [interview wi
 
 The Liturgists released a recording of their [Gathering in Austin, Texas](http://www.theliturgists.com/podcast/2018/7/11/live-in-austin-tx), where each member of the group read one of their favourite passages of scripture.
 
-At a reception for the MFA Thesis Exhibition at Emily Carr University, conversation gravitated twoard art, identity and spirituality.
+At a reception for the [MFA Thesis Exhibition](https://www.ecuad.ca/calendar/nonagon-mfa-graduate-exhibition) at Emily Carr University, conversation gravitated toward art, identity and spirituality.
 
 A CBC Ideas episode featured [Gabrielle Scrimshaw on liberating the past and embracing the future](http://www.cbc.ca/radio/ideas/gabrielle-scrimshaw-on-liberating-the-past-and-embracing-the-future-1.4539172).
 
