@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: Adapting to the changing social, technological, and economic environment.
+description: Adapting to the changing social, technological, and economic environment
 ---
 
 # Resources

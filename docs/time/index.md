@@ -1,5 +1,5 @@
 ---
-description: The stories we tell ourselves form memory and identity.
+description: The stories we tell ourselves form memory and identity
 items:
   - language.md
   - story.md

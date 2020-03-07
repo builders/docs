@@ -1,6 +1,6 @@
 ---
 title: To Build
-description: A community design project to reimagine our social architecture.
+description: A community design project to reimagine our social architecture
 ---
 
 # Social Architecture

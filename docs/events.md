@@ -1,7 +1,7 @@
 ---
-description: Connecting people to the value of being human.
+description: Connecting people to the value of being human
 ---
 
 # Events
 
-Connecting people to the value of being human.
+## Connecting people to the value of being human

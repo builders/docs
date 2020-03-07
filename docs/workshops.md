@@ -1,7 +1,7 @@
 ---
-description: Working together to reimagine our social architecture.
+description: Working together to reimagine our social architecture
 ---
 
 # Workshops
 
-Working together to reimagine our social architecture.
+## Working together to reimagine our social architecture

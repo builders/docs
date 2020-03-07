@@ -1,10 +1,10 @@
 ---
-description: Engaging in authentic human connection to build community.
+description: Engaging in authentic human connection to build community
 ---
 
 # A Community
 
-## Engaging in authentic human connection to build community.
+## Engaging in authentic human connection to build community
 
 By listening to the voices of the marginalized and the disenfranchised, one encounters people going through a process of coming to terms with their own identity. The recurring themes involve words like power, hierarchies, assumptions, questions, disillusionment, work, displacement, precariousness, insecurity, fear, disconnection, assimilation, deconstruction, reconstruction and reconnection.
 

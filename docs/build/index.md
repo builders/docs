@@ -1,5 +1,5 @@
 ---
-description: Building resilience, relationships, and community.
+description: Building resilience, relationships, and community
 items:
   - people.md
   - relationships.md

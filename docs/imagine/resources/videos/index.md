@@ -1,6 +1,6 @@
 ---
 title: Videos
-description: Learning by doing and finding ways to put ideas into action.
+description: Learning by doing and finding ways to put ideas into action
 ---
 
 # Videos

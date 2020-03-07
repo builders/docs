@@ -1,6 +1,6 @@
 ---
 title: Organizations
-description: Making connections, nurturing relationships, and working together.
+description: Making connections, nurturing relationships, and working together
 ---
 
 # Organizations

@@ -1,6 +1,6 @@
 ---
 title: A Vision
-description: We are building leaders to design a resilient society.
+description: We are building leaders to design a resilient society
 ---
 
 # Builders Collective

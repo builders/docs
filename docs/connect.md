@@ -1,5 +1,5 @@
 ---
-description: Connect to learn more about how to get involved.
+description: Connect to learn more about how to get involved
 ---
 
 # Connect

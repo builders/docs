@@ -1,5 +1,5 @@
 ---
-description: Creativity and innovation at the intersection of art and science.
+description: Creativity and innovation at the intersection of art and science
 items:
   - resources
   - theory.md

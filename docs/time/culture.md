@@ -1,3 +1,7 @@
+---
+description: Shared memories, stories, and habits that manifest as architecture
+---
+
 # Culture
 
 ## Shared memories, stories, and habits that manifest as architecture
