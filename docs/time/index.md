@@ -15,7 +15,7 @@ We remember the past, experience the present, and anticipate the future. Our per
 
 ## Our histories are our collective memory
 
-How do we know who we are except in community with other people? When we allow our identity formed only by those who we consider similar to ourselves, our identity is impoverished by the lack of awareness, knowledge, and wisdom that comes with a lack of diversity in our social relationships.
+How do we know who we are except in community with other people? When we allow our identity to be formed only by those who we consider similar to ourselves, our identity is impoverished by the lack of awareness, knowledge, and wisdom that comes with a lack of diversity in our social relationships.
 
 ## Einstein’s Theory of Relativity
 
