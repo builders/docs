@@ -1,12 +1,14 @@
 ---
-description: The subjects are valued according to their ability to extract value from other subjects
+description: Humans are a commodity and a resource from which to extract value
 ---
 
 # People
 
-## The subjects of the Crown are valued according to their ability to extract value from other subjects
+## Humans are a commodity and a resource from which to extract value
 
-People are a commodity with little actual value, especially in terms of materials. In the logic of market valuation, humans are a liability that figures primarily toward the debits accrued in the payment of salaries and benefits.
+The subjects of the Crown are valued according to their ability to extract value from other subjects.
+
+People are a commodity with little actual value, especially in terms of materials. In the logic of market valuation, humans are a liability in economic analyses that associate employees primarily with the debits accrued in the payment of salaries and benefits.
 
 ## Market Economics
 
