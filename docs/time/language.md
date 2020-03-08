@@ -1,10 +1,10 @@
 ---
-description: Words are ways to communicate our experiences as sound vibrations.
+description: Words are symbols to communicate ideas as sound vibrations
 ---
 
 # Language
 
-## Words are ways to communicate our experiences as sound vibrations.
+## Words are symbols to communicate ideas as sound vibrations
 
 Language is a technology that helps us to communicate with each other, but it also forms our identity by constraining our ideas to the social, economic, and political environment in which our relationships were formed in the context of families, schools, institutions, and communities.
 
@@ -12,11 +12,7 @@ Language is a technology that helps us to communicate with each other, but it al
 
 ### Learning to speak the lingua franca of oppression
 
-About 40 years ago, if you were in elementary school in Canada, aspriring to be an artist, there seemed to be two options: starve or assimilate.
-
-The fear was that if you weren’t talented enough to make it as an artist, you would most likely become the stereotypical starving artist.
-
-In high school, the education system offered electives to become a commercial artist.
+About 40 years ago, if you were in school in Canada, aspiring to be an artist, there seemed to be two options: starve or assimilate. The fear was that if you weren’t talented enough to make it as an artist, you would most likely become the stereotypical starving artist. In high school, the education system offered electives to become a commercial artist.
 
 Fast forward 40 years, and we might ask, how has design helped to better society? The news is full of reports of lies, genocide, humanitarian disasters, tragedies, fires, global warming, and sexual assaults. Neoliberal market economics and authoritarian police states are on the rise around the world while corporations monopolize global resources, wealth, and power.
 

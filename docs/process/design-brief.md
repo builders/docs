@@ -1,3 +1,7 @@
+---
+description: Project scope, focus, background, objectives, features, and branding
+---
+
 # A Design Brief
 
 ## Builders Collective

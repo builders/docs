@@ -1,3 +1,7 @@
+---
+description: The permission to think about the big picture to solve systemic problems
+---
+
 # UX Research Plan
 
 Last updated on:  

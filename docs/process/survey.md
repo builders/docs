@@ -1,3 +1,7 @@
+---
+description: How can we build resilience into people, communities, and societies?
+---
+
 # A Survey
 
 ## Building Resilience

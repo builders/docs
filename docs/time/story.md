@@ -1,3 +1,7 @@
+---
+description: Our identities are formed by the stories we tell ourselves
+---
+
 # Story
 
 ## Our identities are formed by the stories we tell ourselves

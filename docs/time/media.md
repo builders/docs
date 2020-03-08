@@ -1,3 +1,7 @@
+---
+description: Extensions of humanity as tools to scale social architecture
+---
+
 # Media
 
 ## Extensions of humanity as tools to scale social architecture
