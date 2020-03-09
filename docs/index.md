@@ -25,7 +25,7 @@ items:
 
 ## The physical is a metaphor for the metaphysical
 
-Ezra Klein was in conversation with Avery Trufleman about [utopias](https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/62084054): “They all start with free love and end with capitalism.”
+Ezra Klein was in conversation with Avery Trufelman about [utopias](https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/62084054): “They all start with free love and end with capitalism.”
 
 Capitalism is a religion. It is the fraud that we are all engaged in, whether we like it or not. The world as we know it is ending. Climate change is real. But we have no idea what to do about it. We don’t know how this story ends.
 
