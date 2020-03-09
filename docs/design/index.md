@@ -1,5 +1,5 @@
 ---
-description: Mental models for understanding human perceptions, values, and behaviours
+description: Mental models for human perceptions, values, and behaviours
 items:
   - ethics.md
   - principles.md
