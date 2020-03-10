@@ -8,7 +8,7 @@ description: Our identities are formed by the stories we tell ourselves
 
 We learn language to connect to the complex interactions of a socially, economically, politically, and ecologically interdepent world of relationships. We share memories, stories, and experiences, as well as a collective imagination of what the future could look like.
 
-The 20th-century economists told us a story about who we are, based on John Stuart Mill’s persona of "Rational Economic Man" as purely self-interested, with little regard for the interests of others. “This value in self-interest and competition over collaboration and altruism, this model remakes us. It's incredibly important how we how we represent ourselves. It changes us.”
+The 20th-century economists told us a story about who we are, based on John Stuart Mill’s persona of “Rational Economic Man” as purely self-interested, with little regard for the interests of others. “This value in self-interest and competition over collaboration and altruism, this model remakes us. It's incredibly important how we how we represent ourselves. It changes us.”
 
 ## Kate Raworth argues that rethinking economics can save our planet
 
