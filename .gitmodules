@@ -1,3 +1,6 @@
 [submodule ".gitdocs_build"]
 	path = .gitdocs_build
 	url = git@github.com:builders/docs.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:builders/docs.git
