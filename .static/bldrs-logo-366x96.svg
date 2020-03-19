@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="366px" height="96px" viewBox="0 0 366 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	.st0{fill:#00ADEE; mix-blend-mode: multiply;}
+	.st1{fill:#EB008B; mix-blend-mode: multiply;}
+</style>
+<g id="BLDRS">
+	<g id="B">
+		<path id="Fill-1" class="st0" d="M18,58V18h40c11,0,20,9,20,20s-9,20-20,20H18z" />
+		<path id="Fill-2" class="st1" d="M18,78V38h40c11,0,20,9,20,20s-9,20-20,20H18z" />
+	</g>
+	<g id="L" transform="translate(108, 0)">
+		<polygon id="Fill-3" class="st1" points="-22.5,78 7.5,78 7.5,18 -22.5,18" />
+		<polygon id="Fill-4" class="st0" points="-22.5,78 37.5,78 37.5,48 -22.5,48" />
+	</g>
+	<g id="D" transform="translate(216, 0)">
+		<path id="Fill-5" class="st1" d="M-33,18c16.6,0,30,13.4,30,30s-13.4,30-30,30s-30-13.4-30-30S-49.6,18-33,18" />
+		<polygon id="Fill-6" class="st0" points="-63,78 -33,78 -33,18 -63,18" />
+	</g>
+	<g id="R" transform="translate(324, 0)">
+		<path id="Fill-7" class="st1" d="M-103.5,58V18h40c11,0,20,9,20,20s-9,20-20,20H-103.5z" />
+		<polygon id="Fill-8" class="st0" points="-43.5,78 -103.5,78 -103.5,18" />
+	</g>
+	<g id="S" transform="translate(432, 0)">
+		<path id="Fill-9" class="st0" d="M-144,78V38h40c11,0,20,9,20,20s-9,20-20,20H-144z" />
+		<path id="Fill-10" class="st1" d="M-84,58V18h-40c-11,0-20,9-20,20s9,20,20,20H-84z" />
+	</g>
+</g>
+</svg>
