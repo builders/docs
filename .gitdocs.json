@@ -3,6 +3,11 @@
   "root": "docs/",
   "header_links": [
     {
+      "title": "Builders",
+      "href": "https://builderscollective.com",
+      "target": "_blank"
+    },
+    {
       "title": "GitHub",
       "href": "https://github.com/builders/docs",
       "target": "_blank"
