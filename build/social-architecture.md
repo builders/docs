@@ -6,7 +6,7 @@ description: Our ideas and habits are manifested in the things we build
 
 ## Our ideas and habits are manifested in the things we build
 
-*[Jacob Pernell](https://www.jacobpernell.design/), one of my [UX Academy students on Designlab](https://trydesignlab.com/bau/), invited me to give a talk at a small meetup in Santa Clara for the [UX Wizards of the South Bay](https://www.meetup.com/UX-WIZARDS-OF-THE-SOUTH-BAY/). This was part of my presentation. Photo by Casey Horner on Unsplash*
+*[Jacob Pernell](https://www.jacobpernell.design/), one of my [UX Academy students on Designlab](http://share.trydesignlab.com/bau), invited me to give a talk at a small meetup in Santa Clara for the [UX Wizards of the South Bay](https://www.meetup.com/UX-WIZARDS-OF-THE-SOUTH-BAY/). This was part of my presentation. Photo by Casey Horner on Unsplash*
 
 # The Big Picture
 
